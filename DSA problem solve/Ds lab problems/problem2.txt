@@ -1,0 +1,7 @@
+Problem
+Given an array of integers nums[] and an integer target. Return YES if there exist two numbers
+such that their sum is equal to the target. Also, return indices of the two numbers such that their
+sum is equal to the target. Otherwise, return NULL.
+
+Caution: Not allowed to use the same element twice. Example: If the target is equal to 10 and
+num[0] = 10, then nums[0] + nums[0] = target is not a solution.
